@@ -1,4 +1,4 @@
-name: Django CI and Deploy to Render
+name: Django CI and Deploy to Render2
 
 on:
   push:
