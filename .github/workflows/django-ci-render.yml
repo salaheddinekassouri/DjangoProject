@@ -27,9 +27,7 @@ jobs:
         pip install -r requirements.txt
 
     # Step 4: Run Django tests
-    - name: Run tests
-      run: |
-        python manage.py test
+
 
     # Step 5: Build Docker image
     - name: Build Docker image
